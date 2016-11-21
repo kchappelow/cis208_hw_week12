@@ -8,8 +8,8 @@ The class contains:
 * Two *double* data fields named *width* and *height* that specify the width and height of the rectangle. The default values are 1 for both *width* and *height*.
 * A no-arg constructor that creates a default rectangle.
 * A constructor that creates a default rectangle.
-* A method name *getArea()* that returns the are of this rectangle.
-* A method named *getPerimeter()* that returns the perimeter.
+* A method name *getArea()* that returns the are of this rectangle. Area = width * height
+* A method named *getPerimeter()* that returns the perimeter. Perimeter = (width + height) * 2.0
 
 Task #1: Draw the UML diagram using PlantUML for the class.
 
