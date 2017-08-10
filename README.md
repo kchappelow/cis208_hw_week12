@@ -1,4 +1,4 @@
-# Week 12 homework assignment - due 11/28/2016 7:15 p.m.
+# Week 12 homework assignment - due 11/27/2017 7:15 p.m.
 
 Problem: The *Rectangle* Class
 
